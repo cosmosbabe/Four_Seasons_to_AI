@@ -1,4 +1,2 @@
-## Image Processing
-- Meet Oblaka, the white cat in my garden, and how we turn an image into a matrix of pixels
-
+## Processing Images
 - Gaussian Blur and a mathematical morphology in "Processing Images"
